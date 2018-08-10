@@ -1,0 +1,4 @@
+Git test file three >> myfile3.txt
+
+echo Git test file three
+Git test file three
